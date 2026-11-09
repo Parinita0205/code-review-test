@@ -2,6 +2,7 @@ public class Calculator {
 
     public static int divide(int a, int b) {
         // Testing automatic GitHub webhook
+        // Testing Render deployment webhook
         return a / (b - 2);
     }
 
